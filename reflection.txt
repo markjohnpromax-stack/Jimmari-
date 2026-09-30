@@ -1,0 +1,16 @@
+MIDTERM PROJECT REFLECTION
+
+1. What did you learn while creating your portfolio?
+I learned how HTML and CSS can be used together to create a simple website. I also learned how to connect multiple HTML pages using links and how CSS can make the pages organized and easier to read.
+
+2. What HTML and CSS techniques did you use?
+I used headings, paragraphs, lists, images, hyperlinks, semantic elements, an external CSS file, Flexbox, colors, borders, spacing, and hover effects.
+
+3. What part of the project was most challenging?
+The most challenging part was organizing the content and making sure the links between the three pages worked correctly.
+
+4. What would you improve if you had more time?
+I would improve the design, add more of my own project examples, and make the website more visually interesting while keeping it easy to use.
+
+5. How could this portfolio be useful to you in the future?
+I can continue adding projects, skills, and learning experiences to this portfolio. It can become a place where I can show my progress as an IT student.
